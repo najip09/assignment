@@ -1,0 +1,107 @@
+
+.A {
+   height: 11vh;
+   background-color: white;
+   /* border: 1px solid antiquewhite; */
+   border-bottom: 0.5px solid rgb(212, 209, 209);
+   margin: 1rem;
+}
+.box {
+   /* width: 5rem;
+   height: 5rem; */
+   background-color: white;
+   /* border: 1px solid antiquewhite; */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 60vh;
+
+
+
+
+
+   }
+
+  
+
+   .B {
+      height: 10vh;
+      background-color: white;
+
+      border-top: 0.5px solid rgb(212, 209, 209);
+      margin: 1rem;
+
+         color: green;
+         display: flex;
+         justify-content: space-between;
+
+         position: relative;
+        
+     
+   } 
+
+
+  .text-3 {
+   position: relative;
+   bottom: 1rem;
+color:  rgb(88, 82, 82);
+  }
+
+ .text {
+   margin-top: 2rem;
+   margin-bottom: 2rem;
+   margin-left: 3rem;
+ }
+
+ .najka {
+   position: relative;
+   bottom: 1rem;
+   color:  rgb(88, 82, 82); 
+ }
+
+ .najiib{
+
+   
+display: flex;
+justify-content: space-between;
+
+ } 
+.rar{
+   position: relative;
+   bottom: 4rem;
+   left: 1rem;
+
+   background-color: white;
+   border: 1px solid gray;
+   height: 30px;
+   border-radius: 50%;
+   width: 30px;
+   position: relative;
+   /* bottom: 3rem;
+   left: 1rem; */
+}
+ 
+.rar-2{
+   position: relative;
+   right: 18.5rem;
+   bottom: 4rem;
+
+   background-color: white;
+   border: 1px solid gray;
+   height: 30px;
+   border-radius: 50%;
+   width: 30px;
+}
+
+.rar-3{
+   position: relative;
+   right: 37rem;
+   bottom: 4rem;
+   
+   background-color: white;
+   border: 1px solid gray;
+   height: 30px;
+   border-radius: 50%;
+   width: 30px;
+}
